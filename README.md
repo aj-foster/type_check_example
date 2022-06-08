@@ -1,21 +1,5 @@
-# TypecheckExample
+# Type Check Example
 
-**TODO: Add description**
+This repository is a reduced test case for measuring the compilation time of projects that use `type_check` with large, nested structs.
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `typecheck_example` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:typecheck_example, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/typecheck_example>.
-
+For more information, see [the type_check repository](https://github.com/Qqwy/elixir-type_check).
